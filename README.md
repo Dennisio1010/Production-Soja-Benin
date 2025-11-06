@@ -1,4 +1,4 @@
-# Production Soja Benin
+Analysis of Soybean Production in Benin - SQL Project
 # 🌾 Analyse de la Production de Soja au Bénin - SQL Project
 
 ## 📋 Vue d'ensemble du projet
